@@ -1,0 +1,15 @@
+{
+	"name": "calmh-almost-mono",
+	"version": "0.1.0",
+	"publisher": "calmh",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Almost Mono (Calmh)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/almost-mono.tmTheme"
+			}
+		]
+	}
+}
