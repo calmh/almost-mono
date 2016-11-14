@@ -9,6 +9,11 @@
 				"label": "Almost Mono (Calmh)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/almost-mono.tmTheme"
+			},
+			{
+				"label": "Almost Mono Light (Calmh)",
+				"uiTheme": "vs",
+				"path": "./themes/almost-mono-light.tmTheme"
 			}
 		]
 	}
