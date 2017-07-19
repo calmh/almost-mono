@@ -4,7 +4,7 @@
 	<key>author</key>
 	<string>calmh</string>
 	<key>comment</key>
-	<string>Almost Monoi, Light</string>
+	<string>Almost Mono, Light</string>
 	<key>name</key>
 	<string>Almost Mono, Light</string>
 	<key>settings</key>
@@ -47,7 +47,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3ab196</string>
+				<string>#0A8C6F</string>
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -60,7 +60,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3ab196</string>
+				<string>#0A8C6F</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -87,7 +87,7 @@
 				<key>settings</key>
 				<dict>
 				<key>foreground</key>
-				<string>#080808</string>
+				<string>#8C0A6F</string>
 				<key>fontStyle</key>
 				<string></string>
 				</dict>
