@@ -237,6 +237,19 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>Latex function</string>
+				<key>scope</key>
+				<string>text.tex.latex support.function, text.tex.latex keyword</string>
+				<key>settings</key>
+				<dict>
+				<key>foreground</key>
+				<string>#22ffbb</string>
+				<key>fontStyle</key>
+				<string></string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>Keyword</string>
 				<key>scope</key>
 				<string>keyword, keyword.operator.new</string>
